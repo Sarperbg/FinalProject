@@ -1,1 +1,1 @@
-#EnginDemiroğ Yazılım Geliştirici Yeiştirme Kursu # FinalProject
+EnginDemiroğ Yazılım Geliştirici Yetiştirme Kursu # FinalProject
